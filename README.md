@@ -18,16 +18,6 @@ como funcionam os verbos e os códigos http, como trabalhar com os objetos de re
 
 ---
 
-## Instruções para testar a API
-
-1. Inicie o projeto
-  * `npm start`
-  
-2. Execute os testes
-  * `npm test`
-  
----
-
 ## Rotas
 
 ### Endpoint GET `/talker`
